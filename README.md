@@ -12,3 +12,5 @@ and radii values. Plots of contact line speed against contact angle for each dro
 relate eachdroplet’s contact anglesto its contact line speeds.
 
 The first droplet was found to have smaller contact angles and its spreading law was best approximated by the de Gennes spreading law with a reduced chi-sq of 0.84. The second droplet was found to have larger contact angles and its spreading law was best approximated by the Cox-Voinov spreading law with a reduced chi-sq of 1.16.
+
+All results can be found in the pdf file.
